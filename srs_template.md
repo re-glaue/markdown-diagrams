@@ -1,17 +1,16 @@
 
-# Software Requirements Specification
-# for
 # \<Project\>
-# Version 1.0 approved
-# Prepared by \<author\>
-# \<organization\>
-# \<date created\>
+### Software Requirements Specification
+   Version 1.0 approved\
+   Prepared by \<author\>\
+   \<organization\>\
+   \<date created\>
 
 ## Table of Contents
 [Revision History](#revision-history)
 1. [Introduction](#1-introduction)\
-  1.1. [Purpose](#11-purpose)\
-  1.2. [Documentation Conversion](#12-documentation-conversion)\
+  1.1 [Purpose](#11-purpose)\
+  1.2 [Document Conventions](#12-document-conventions)\
   1.3 [Intended Audience and Reading Suggestions](#13-intended-audience-and-reading-suggestions)\
   1.4 [Project Scope](#14-project-scope)\
   1.5 [References](#15-references)
@@ -40,7 +39,7 @@
 
 Appendix A: [Glossary](#appendix-a-glossary)\
 Appendix B: [Analysis Models](#appendix-b-analysis-models)\
-Appendix C: [Issues List](#appendix-c-issues-list)\
+Appendix C: [Issues List](#appendix-c-issues-list)
 
 ## Revision History
 
